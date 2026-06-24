@@ -1,0 +1,2 @@
+Replace this file with your actual code file(s), e.g. ring_buffer.c,
+model.py, build.sh. You can have more than one code file per snippet.

@@ -1,0 +1,11 @@
+# Build artifacts from snippet demos
+*.o
+*.obj
+*.elf
+*.bin
+*.out
+a.out
+demo
+__pycache__/
+*.pyc
+.DS_Store

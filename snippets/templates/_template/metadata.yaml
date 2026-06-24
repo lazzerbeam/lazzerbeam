@@ -1,0 +1,11 @@
+id: REPLACE-WITH-SNIPPET-ID
+title: One-line human title
+language: c
+category: REPLACE-WITH-CATEGORY
+tags: [tag-one, tag-two]
+status: wip            # working | wip | broken | reference
+description: One sentence describing what this snippet does.
+source: hand-written   # hand-written | <url> | <paper/book> | <project>
+dependencies: []       # e.g. [numpy, cmake>=3.20]
+created: YYYY-MM-DD
+updated: YYYY-MM-DD

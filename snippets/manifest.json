@@ -1,0 +1,31 @@
+{
+  "count": 1,
+  "snippets": [
+    {
+      "category": "embedded",
+      "created": "2026-06-24",
+      "dependencies": [
+        "c99"
+      ],
+      "description": "A static power-of-two byte ring buffer for single-producer/single-consumer use on MCUs, no dynamic allocation.",
+      "files": [
+        "ring_buffer.c",
+        "ring_buffer.h"
+      ],
+      "id": "c-ring-buffer",
+      "language": "c",
+      "path": "library/embedded/c-ring-buffer",
+      "source": "hand-written",
+      "status": "working",
+      "tags": [
+        "buffer",
+        "data-structure",
+        "no-malloc",
+        "isr-safe",
+        "spsc"
+      ],
+      "title": "Fixed-size lock-free ring buffer (SPSC)",
+      "updated": "2026-06-24"
+    }
+  ]
+}

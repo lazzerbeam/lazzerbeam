@@ -1,0 +1,11 @@
+id: c-ring-buffer
+title: Fixed-size lock-free ring buffer (SPSC)
+language: c
+category: embedded
+tags: [buffer, data-structure, no-malloc, isr-safe, spsc]
+status: working
+description: A static power-of-two byte ring buffer for single-producer/single-consumer use on MCUs, no dynamic allocation.
+source: hand-written
+dependencies: [c99]
+created: 2026-06-24
+updated: 2026-06-24
